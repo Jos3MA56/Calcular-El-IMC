@@ -1,1 +1,1 @@
-﻿# Calcular-el-IMC
+﻿# Practicas
